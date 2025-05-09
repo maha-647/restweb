@@ -238,10 +238,13 @@ Publish the website in the given URL.
 ```
 
 ## OUTPUT:
-![alt text](image1.jpg>)
-![alt text](image2.jpg>)
-![alt text](image3.jpg)
-![alt text](image4.jpg)
+![image1](https://github.com/user-attachments/assets/078e2ba8-2093-4285-a420-f00ebefc1483)
+![image2](https://github.com/user-attachments/assets/cd0baad3-64ea-44c3-821a-88ece8c66ae4)
+![image3](https://github.com/user-attachments/assets/79bbc588-dd16-4833-afe4-17cbe0a2f979)
+![image4](https://github.com/user-attachments/assets/b4d352eb-bad6-49fe-8fc7-6c707f495a00)
+
+
+
 
 
 
